@@ -1,0 +1,31 @@
+_repo: The-Raising-and-Care-of-Guinea-Pigs--13-A-complete-guide-to-the-breeding-feeding-housing-exhi__32189
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Allen Christian
+    alias: Smith, A. C.
+    birthdate: 1882
+    gutenberg_agent_id: '35717'
+    url: http://www.gutenberg.org/2009/agents/35717
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Domestic
+gutenberg_issued: '2010-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32189'
+  lccn: '15004969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guinea pigs'
+- !lcc 'SF'
+title: "The Raising and Care of Guinea Pigs\r\nA complete guide to the breeding, feeding,\
+  \ housing, exhibiting and marketing of cavies"
+url: http://www.gutenberg.org/ebooks/32189
